@@ -11,7 +11,7 @@
 body {
   background: white;
   font-size: 1.8rem;
-  color: #301590;
+  color: #211d41;
 }
 .pg img {
   position: absolute;
@@ -61,13 +61,13 @@ nav a:hover {
   }
 }
 main {
-  padding: 5rem 10rem;
+  padding: 5rem 11rem;
 }
 .slogan {
-  font-size: 4rem;
+  font-size: 3.6rem;
 
   & p {
-    color: #211d41;
+    padding: 2rem 0;
     max-width: 25%;
     font-size: 1.6rem;
   }
@@ -78,7 +78,7 @@ main {
   border-radius: 20px;
   padding: 1.2rem 6rem;
   border: none;
-  margin-top: 4rem;
+  margin-top: 2rem;
   font-size: 1.8rem;
   transition: opacity 0.5s;
 
